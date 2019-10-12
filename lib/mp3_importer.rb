@@ -1,4 +1,3 @@
-require 'pry'
 class MP3Importer
   attr_reader :path
   attr_accessor :files_array 
